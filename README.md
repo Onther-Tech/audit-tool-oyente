@@ -14,7 +14,7 @@ change directory:
 cd oyente
 ```
 
-get solidity file for testing
+get solidity file for testing:
 ```bash
 git clone https://github.com/Onther-Tech/tokyo.git
 ```
